@@ -1,7 +1,7 @@
 import requests
 import csv
 
-API_KEY = "AIzaSyBvOdPPrcSK2tILMlXtlrL79ECxMtmEX6w"
+API_KEY = "" # your Places API key
 PLACE = "Houston"
 
 
